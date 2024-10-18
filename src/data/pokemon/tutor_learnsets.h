@@ -4616,6 +4616,7 @@ static const u8 sSunfloraTutorLearnset[] =
     TUTOR(MOVE_SEED_BOMB),
     TUTOR(MOVE_CUT),
     TUTOR(MOVE_FLASH),
+    TUTOR(MOVE_SCORCHING_SANDS),
     0xFF,
 };
 
