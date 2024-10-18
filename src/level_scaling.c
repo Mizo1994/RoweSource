@@ -110,7 +110,7 @@ u8 getCityOrder(u8 id);
 u8 getScaledWildPokemonLevel();
 
 //Wild Pokemon Scaling
-const u8 MovePowerLimit[] = {60,60,70,70,80,90,100,250,250,250,250};
+const u8 MovePowerLimit[] = {250,250,250,250,250,250,250,250,250,250,250};
 
 u8 GetGameDifficultyLevel(){
 	if (FlagGet(FLAG_EASY_MODE))
